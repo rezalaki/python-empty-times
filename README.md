@@ -10,7 +10,7 @@ The professor can have the chart which shows the most acceptable times and days 
 Of course he has this project done in Csharp.
 
 
-### how to test and watch demo
+## How to test and watch demo
 1) Clone the project **https://github.com/rezalaki/python-empty-times.git**.
 2) Run the file named **createExcels.py**.
 	It will generate 5 excel files within random data in the **data_store** directory/folder.
