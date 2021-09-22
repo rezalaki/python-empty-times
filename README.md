@@ -24,6 +24,6 @@ Of course he has this project done in Csharp.
 3) In the same directory/folder your **main.py** is located, create a directory/folder named **data_store**.
 4) Copy all excel files of your students into **data_store** directory/folder.
 5) Run the **main.py** file.
-** Perhaps you don't have the Module which used. In case of Error search the error in Google.com then find the Module name. Install Module name using pip **
+**Perhaps you don't have the Module which are used. In case of Error search the error in Google.com then find the Module name. Install Module using pip**
 
 
