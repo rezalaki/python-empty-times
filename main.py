@@ -20,7 +20,8 @@ def getFiles(maven_dir):
     os.chdir(maven_dir)
     excel_files_list = os.listdir()
     for item in excel_files_list:
-        all_excel_files.append(item)
+        if item.lower().endswith('.xlsx'):
+            all_excel_files.append(item)
 
 
 maven_dir = "data_store"
